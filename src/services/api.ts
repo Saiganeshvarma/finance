@@ -1,5 +1,5 @@
 // API Configuration
-const API_BASE_URL = 'https://crudcrud.com/api/be8770af095045cfa34fcaa9e6a1beab';
+const API_BASE_URL = '';
 
 // Helper function to get auth token
 const getAuthToken = () => {
